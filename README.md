@@ -4,9 +4,6 @@ dotfiles
 
 前提
 -------
+.bashrc
 bash_completionがインストールされていること
-
-使い方
--------
-todo
 
